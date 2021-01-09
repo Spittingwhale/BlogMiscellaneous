@@ -1,0 +1,5 @@
+#×¢²á×Ô¶¨ÒåFailureAnalyzer
+org.springframework.boot.diagnostics.FailureAnalyzer=\
+ com.czj.exception.util.FailureAnalyzerDefinition
+org.springframework.boot.diagnostics.FailureAnalysisReporter=\
+ com.czj.exception.util.FailureAnalysisReporterDefinition

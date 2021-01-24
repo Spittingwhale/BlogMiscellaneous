@@ -25,6 +25,7 @@
         <module>BlogMiscellaneous-exception</module>
         <module>BlogMiscellaneous-socket</module>
         <module>BlogMiscellaneous-environment</module>
+        <module>BlogMiscellaneous-annotation</module>
     </modules>
 
     <properties>
